@@ -1,0 +1,15 @@
+body{
+background-color: blanchedalmond;
+background-image: url("google.png");
+}
+.btn{
+    border-radius: 13px;
+    padding: 7px;
+    color: white;
+    background-color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: darkred;
+}
